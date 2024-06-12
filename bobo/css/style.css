@@ -1,0 +1,16 @@
+body{
+    height: 100vh;
+    background-image: url(https://media.istockphoto.com/id/1127245421/photo/woman-hands-praying-for-blessing-from-god-on-sunset-background.jpg?s=612x612&w=is&k=20&c=0ly0PvMXAPmnoGBbOgam9uPQ9VaOLl_PX3NOCwMuWHY=);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h1{
+    text-align: center;
+    color: brown;
+}
+p{
+    font-weight: bold;
+    margin-top: 90%;
+    color: white;
+}
